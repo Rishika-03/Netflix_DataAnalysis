@@ -1,1 +1,2 @@
-# Netflix_DataAnalysis
+# Netflix Data Analysis
+The overall analysis of Netflix data involves exploring and visualizing various aspects of the content available on the platform.It provides a comprehensive overview of Netflix's content library, shedding light on various aspects like content ratings,trends, and popular creators.The analysis performs sentiment analysis on content descriptions to determine their overall sentiment (positive, neutral, or negative). It offers insights into the general emotional tone of the content offered on Netflix.
